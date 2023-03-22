@@ -15,3 +15,5 @@ Main features/goals of the intended add in  are as follows:
 options
 
 ONNX format of model used to avoid python
+activate apython script for classification
+standalone python script for integration with Power Automate
